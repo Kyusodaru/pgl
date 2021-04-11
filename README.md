@@ -1,5 +1,5 @@
 # *PGL - Panelized Gui Library*
-Highly experimental crate. Do not rely.
+Highly experimental crate. Do not rely on this.
 
 ## License
 
